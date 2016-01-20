@@ -12,7 +12,7 @@ las columnas y dentro de dicho "table" se guarda un <strong>pointer</strong> que
 
 <h4>¿Como compilar?</h4>
 Para saber como compilar visita el archivo: HOW_TO_COMPILE.txt<br>
-No probé al cien porciento el script, por lo que si encuentras un bug, favor avisarme en la siguiente dirección:
+No probé al cien porciento el script, por lo que si encuentras un bug, favor de avisarme en la siguiente dirección:
 alez011@hotmail.com<br>
 
 <h3>English</h3>
