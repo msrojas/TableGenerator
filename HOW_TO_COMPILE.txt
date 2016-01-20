@@ -1,0 +1,16 @@
+LINUX
+gcc -c grafica.c -o grafica.o
+ar rcs libgrafica.a grafica.o
+
+gcc -c hash_table.c -o hash_table.o
+ar rcs libhash.a hash_table.o
+
+gcc -c memoria_dinamica.a -o memoria_dinamica.o
+ar rcs libmemoria.a memoria_dinamica.o
+
+gcc ejemplo.c -o ejemplo -I. libgrafica.a -I. libhash.a -I. libmemoria.a
+
+WINDOWS
+
+No tengo idea. No uso windows.
+I have no idea. I don't use windows.
