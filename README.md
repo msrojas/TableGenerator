@@ -12,6 +12,8 @@ las columnas y dentro de dicho "table" se guarda un <strong>pointer</strong> que
 
 <h4>¿Como compilar?</h4>
 Para saber como compilar visita el archivo: HOW_TO_COMPILE.txt<br>
+No probé al cien porciento el script, por lo que si encuentras un bug, favor avisarme en la siguiente dirección:
+alez011@hotmail.com<br>
 
 <h3>English</h3>
 <strong>TableGenerator</strong> is a tool that create tables. ¿How many times we have desired that the data being sorted? For 
@@ -23,3 +25,5 @@ of the columns and inside of it has a pointer pointing to a linked list that con
 
 <h4>How to compile?</h4>
 See the file: HOW_TO_COMPILE.txt<br>
+I don't tested the script very well, so if you find a bug please contact me to the next email:
+alez011@hotmail.com<br>
